@@ -1,0 +1,8 @@
+prefix=/home/robond/catkin_ws_prj2/devel
+
+Name: pr2_robot
+Description: Description of pr2_robot
+Version: 0.0.0
+Cflags: -I/home/robond/catkin_ws_prj2/devel/include
+Libs: -L/home/robond/catkin_ws_prj2/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+RoboND-Perception-Project/gazebo_grasp_plugin:RoboND-Perception-Project/pr2_moveit:RoboND-Perception-Project/pr2_robot
+-DCATKIN_DEVEL_PREFIX=/home/robond/catkin_ws_prj2/devel -DCMAKE_INSTALL_PREFIX=/home/robond/catkin_ws_prj2/install -G Unix Makefiles
